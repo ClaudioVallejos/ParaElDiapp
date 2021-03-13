@@ -1,0 +1,7 @@
+{
+  "name": "OrganiGrama",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
